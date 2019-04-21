@@ -1,0 +1,11 @@
+clg => console.log();
+cer => console.error();
+ccl => console.clear();
+exp => export default;
+cs => const {  } = this.state
+imd => import {  } from 'module'
+nfn => const name = (params) => {}
+met => methodName = (params) => {}
+imrc => import React, { Component } from 'react'
+bnd => this.methodName = this.methodName.bind(this)
+rce => class base component

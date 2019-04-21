@@ -1,0 +1,4 @@
+{
+  "presets": ["env", "react"],
+  "plugins": ["transform-class-properties"]//class properties syntax için kullnalır. arrow func kullanılabilecek şekilde olur. bind ihtiyacı ortadan kalkar 
+}
